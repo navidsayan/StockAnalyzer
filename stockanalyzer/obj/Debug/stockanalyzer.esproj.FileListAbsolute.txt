@@ -1,0 +1,1 @@
+C:\Users\navid\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\stockanalyzer.esproj.CoreCompileInputs.cache
